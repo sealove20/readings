@@ -1,0 +1,33 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Staatliches', cursive, Arial;
+    font-size: 40px;
+}
+
+ul {
+    list-style-type: none;
+    font-family: 'Crimson Text', serif, Arial;  
+    margin-right: 35px;
+}
+
+ul li {
+    margin: 30px 0;
+}
+
+ul li a {
+    text-decoration: none;    
+    font-size: 20px;
+}
+
+#container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+
