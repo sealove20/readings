@@ -1,4 +1,5 @@
 body {
+  background-color: #F6F6F6;
     padding: 0;
     margin: 0;
 }
@@ -10,7 +11,7 @@ h1 {
 
 ul {
     list-style-type: none;
-    font-family: 'Crimson Text', serif, Arial;  
+    font-family: "Arial Black", Gadget, sans-serif;
     margin-right: 35px;
 }
 
@@ -29,4 +30,3 @@ ul li a {
     align-items: center;
     flex-direction: column;
 }
-
